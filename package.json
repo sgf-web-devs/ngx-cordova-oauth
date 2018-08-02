@@ -4,7 +4,7 @@
   "description": "Connect to Oauth providers using Apache Cordova, Angular 2, and the InAppBrowser plugin",
   "author": "Nic Raboy (https://www.nraboy.com)",
   "homepage": "https://www.thepolyglotdeveloper.com",
-  "devDependencies": {
+  "dependencies": {
     "typescript": "^1.7.5"
   },
   "keywords": [
